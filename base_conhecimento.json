@@ -1,0 +1,241 @@
+[
+    {
+        "id": 1,
+        "categoria": "Saúde",
+        "titulo": "Consultar o Cartão Nacional de Saúde (Cartão SUS)",
+        "palavras_chave": [
+            "cartao do sus",
+            "cartao sus",
+            "cartao nacional de saude",
+            "cns",
+            "meu sus digital"
+        ],
+        "resposta": "O Cartão Nacional de Saúde identifica o cidadão no SUS. O Meu SUS Digital permite consultar informações relacionadas à saúde. Para orientação sobre cadastro ou correção de dados, procure uma Unidade Básica de Saúde (UBS) do município.",
+        "documentos": [
+            "Documento oficial com foto, se disponível",
+            "CPF, se disponível",
+            "Cartão SUS ou acesso ao Meu SUS Digital, se já possuir"
+        ],
+        "onde": "Unidade Básica de Saúde (UBS) ou aplicativo Meu SUS Digital. Confirme o procedimento na secretaria municipal de saúde.",
+        "fonte": "https://www.gov.br/saude/pt-br/composicao/saps/vacina-na-aps",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 2,
+        "categoria": "Saúde",
+        "titulo": "Consultar o calendário de vacinação",
+        "palavras_chave": [
+            "calendario de vacinacao",
+            "vacinas",
+            "vacinar",
+            "caderneta de vacina"
+        ],
+        "resposta": "O Ministério da Saúde publica o Calendário Nacional de Vacinação por faixa etária e grupos. Consulte a versão atual e leve sua caderneta à UBS para que a equipe confira quais doses são indicadas para sua situação.",
+        "documentos": [
+            "Caderneta ou cartão de vacinação, se tiver",
+            "Documento com foto, se disponível"
+        ],
+        "onde": "Unidade Básica de Saúde (UBS). A ausência da caderneta não impede a vacinação, conforme orientação do Ministério da Saúde.",
+        "fonte": "https://www.gov.br/saude/pt-br/vacinacao/calendario",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 3,
+        "categoria": "Trabalho e documentos",
+        "titulo": "Obter a Carteira de Trabalho Digital",
+        "palavras_chave": [
+            "carteira de trabalho digital",
+            "ctps digital",
+            "carteira profissional",
+            "trabalho digital"
+        ],
+        "resposta": "A Carteira de Trabalho Digital pode ser acessada gratuitamente pelo aplicativo oficial ou pela página de serviço do gov.br. Entre com sua conta gov.br. O documento digital reúne informações de vínculos e contratos de trabalho.",
+        "documentos": [
+            "Conta gov.br",
+            "CPF para autenticação na conta gov.br"
+        ],
+        "onde": "Aplicativo Carteira de Trabalho Digital ou serviço oficial no portal gov.br.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 4,
+        "categoria": "Trabalho e documentos",
+        "titulo": "Solicitar o Seguro-Desemprego",
+        "palavras_chave": [
+            "seguro desemprego",
+            "beneficio desemprego",
+            "demissao sem justa causa",
+            "solicitar seguro"
+        ],
+        "resposta": "O Seguro-Desemprego pode oferecer assistência financeira temporária a quem foi dispensado involuntariamente e atende aos critérios legais. O pedido pode ser feito pelo portal gov.br ou pelo aplicativo Carteira de Trabalho Digital. Verifique os requisitos e prazos oficiais antes de solicitar.",
+        "documentos": [
+            "Documento do Requerimento do Seguro-Desemprego fornecido pelo empregador",
+            "CPF para autenticação e solicitação"
+        ],
+        "onde": "Portal gov.br, aplicativo Carteira de Trabalho Digital ou atendimento do Ministério do Trabalho pelo telefone 158.",
+        "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 5,
+        "categoria": "Trabalho e documentos",
+        "titulo": "Criar uma conta gov.br",
+        "palavras_chave": [
+            "criar conta gov br",
+            "cadastro gov br",
+            "senha gov br",
+            "acesso servicos digitais"
+        ],
+        "resposta": "A conta gov.br permite acessar diversos serviços digitais do governo federal. A criação é feita pelo serviço oficial. Nunca compartilhe sua senha ou códigos de autenticação com terceiros.",
+        "documentos": [
+            "Dados solicitados pelo próprio portal oficial durante a validação",
+            "Celular ou e-mail de acesso, conforme as opções de validação disponíveis"
+        ],
+        "onde": "Aplicativo gov.br ou página oficial de criação de conta.",
+        "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 6,
+        "categoria": "Trabalho e documentos",
+        "titulo": "Fazer a inscrição no CPF",
+        "palavras_chave": [
+            "inscricao cpf",
+            "fazer cpf",
+            "emitir cpf",
+            "cadastro pessoa fisica"
+        ],
+        "resposta": "A inscrição no CPF é solicitada pelo serviço oficial da Receita Federal. A página informa os canais disponíveis e a documentação aplicável a cada situação. Confira as orientações antes de comparecer a um posto.",
+        "documentos": [
+            "Documento oficial de identificação com foto",
+            "Certidão de nascimento ou casamento quando os dados necessários não constarem no documento apresentado",
+            "Documentos adicionais podem ser solicitados conforme o caso"
+        ],
+        "onde": "Serviço de inscrição no CPF no portal gov.br; a página lista os canais presenciais conveniados.",
+        "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 7,
+        "categoria": "Assistência social",
+        "titulo": "Inscrever a família no Cadastro Único",
+        "palavras_chave": [
+            "cadastro unico",
+            "cadunico",
+            "cras",
+            "programas sociais"
+        ],
+        "resposta": "O Cadastro Único é gratuito e feito presencialmente em posto municipal, como CRAS ou posto de cadastramento. A pessoa responsável pela família deve comparecer para entrevista. Estar no Cadastro Único não garante automaticamente entrada em um programa: cada programa possui regras próprias.",
+        "documentos": [
+            "CPF de todas as pessoas da família, preferencialmente",
+            "Documento de identificação do responsável familiar",
+            "Comprovante de residência, se houver",
+            "Documentos dos demais integrantes, conforme a lista oficial"
+        ],
+        "onde": "CRAS ou posto do Cadastro Único do município. O local e o agendamento podem variar por cidade.",
+        "fonte": "https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 8,
+        "categoria": "Direitos do consumidor",
+        "titulo": "Registrar uma reclamação no Consumidor.gov.br",
+        "palavras_chave": [
+            "consumidor gov",
+            "reclamacao compra",
+            "problema produto",
+            "empresa nao resolveu"
+        ],
+        "resposta": "A plataforma Consumidor.gov.br é um serviço público e gratuito para interlocução entre consumidores e empresas participantes. É necessário ter conta gov.br e verificar se a empresa está cadastrada. Reúna documentos da compra e descreva o problema sem publicar dados pessoais desnecessários.",
+        "documentos": [
+            "Conta gov.br",
+            "Nota fiscal, comprovante de pagamento, contrato ou protocolo, se disponíveis",
+            "Descrição objetiva do problema e da solução desejada"
+        ],
+        "onde": "Plataforma oficial Consumidor.gov.br, pela internet.",
+        "fonte": "https://www.gov.br/mj/pt-br/assuntos/noticias/consumidor-gov-br-saiba-como-registrar-uma-reclamacao-pela-plataforma",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 9,
+        "categoria": "Trabalho e documentos",
+        "titulo": "Solicitar passaporte comum brasileiro",
+        "palavras_chave": [
+            "passaporte",
+            "emitir passaporte",
+            "documento viagem",
+            "policia federal passaporte"
+        ],
+        "resposta": "O pedido de passaporte comum é iniciado no site oficial da Polícia Federal. Preencha o formulário, pague a taxa indicada no próprio serviço, agende o atendimento e compareça à unidade escolhida com os documentos originais exigidos. Confira a lista atual antes de iniciar.",
+        "documentos": [
+            "Documentação original indicada pela Polícia Federal para a situação do solicitante",
+            "Regularidade eleitoral e militar, quando aplicável",
+            "Comprovante de pagamento e protocolo, conforme as etapas do serviço"
+        ],
+        "onde": "Site oficial da Polícia Federal e posto de atendimento selecionado no agendamento.",
+        "fonte": "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 10,
+        "categoria": "Saúde",
+        "titulo": "Encontrar orientações para vacinação em uma UBS",
+        "palavras_chave": [
+            "ubs vacina",
+            "posto de saude vacina",
+            "unidade basica saude",
+            "onde vacinar"
+        ],
+        "resposta": "A vacinação de rotina é realizada nas unidades de saúde. O Ministério da Saúde orienta procurar a UBS mais próxima e manter a situação vacinal atualizada. A falta de documentos não deve impedir a vacinação; leve os registros disponíveis para ajudar a equipe.",
+        "documentos": [
+            "Cartão de vacina ou caderneta, se tiver",
+            "Documento pessoal com foto, se disponível",
+            "Meu SUS Digital, se utilizar"
+        ],
+        "onde": "UBS mais próxima. Consulte a secretaria municipal de saúde para endereço e horário.",
+        "fonte": "https://www.gov.br/saude/pt-br/composicao/saps/vacina-na-aps",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 11,
+        "categoria": "Direitos do consumidor",
+        "titulo": "Preparar documentos para reclamar de uma compra",
+        "palavras_chave": [
+            "nota fiscal compra",
+            "comprovante pagamento",
+            "reclamar compra",
+            "protocolo atendimento"
+        ],
+        "resposta": "Para facilitar a análise de uma reclamação de consumo, reúna registros relacionados à compra ou contratação. A plataforma Consumidor.gov.br recomenda anexar, quando possível, nota fiscal, comprovante de pagamento, contrato ou protocolo de atendimento. Não envie documentos em canais não oficiais.",
+        "documentos": [
+            "Nota fiscal ou comprovante da compra",
+            "Comprovante de pagamento",
+            "Contrato, protocolo ou mensagens relevantes, se houver"
+        ],
+        "onde": "Primeiro, tente o canal oficial de atendimento da empresa. Se necessário e se ela participar, utilize o Consumidor.gov.br.",
+        "fonte": "https://www.gov.br/mj/pt-br/assuntos/noticias/consumidor-gov-br-saiba-como-registrar-uma-reclamacao-pela-plataforma",
+        "verificado_em": "2026-11-12"
+    },
+    {
+        "id": 12,
+        "categoria": "Assistência social",
+        "titulo": "Atualizar os dados do Cadastro Único",
+        "palavras_chave": [
+            "atualizar cadastro unico",
+            "alterar cadunico",
+            "mudanca endereco familia",
+            "atualizacao cadastro social"
+        ],
+        "resposta": "As informações do Cadastro Único devem ser atualizadas a cada dois anos ou sempre que houver mudança relevante na família, como endereço, composição familiar, escola ou renda. Procure o posto municipal para orientação sobre a atualização.",
+        "documentos": [
+            "CPF dos integrantes, preferencialmente",
+            "Documento de identificação do responsável familiar",
+            "Comprovante de residência, se houver",
+            "Documentos que comprovem as alterações, conforme orientação do posto"
+        ],
+        "onde": "CRAS ou posto de atendimento do Cadastro Único do município.",
+        "fonte": "https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal",
+        "verificado_em": "2026-11-12"
+    }
+]
